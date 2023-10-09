@@ -7,4 +7,8 @@
   <img src="https://janishar.github.io/images/postoffice-simulation.png" width="300">
 </p>
 
-###[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
+# About The Author
+You can connect with me here:
+* [Janishar Ali](https://janisharali.com)
+* [Twitter](https://twitter.com/janisharali)
+* [YouTube Channel](https://www.youtube.com/@unusualcode)
